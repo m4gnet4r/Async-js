@@ -48,9 +48,3 @@ This task enhanced my understanding of asynchronous programming and its importan
 
 ## 🙌 Acknowledgement
 Thank you to the KOSS team for this opportunity to learn and explore!
-
-- Support chaining using `.then()`  
-- Simplify error handling using `.catch()`
-
----
-
