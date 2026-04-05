@@ -1,7 +1,15 @@
 # 📌 KOSS Selection Task – Async JavaScript
 
+Submitted by Yash Jain for the KOSS task round.
+
 ## 📖 Overview
 This repository contains my submission for the **KOSS selection task**, where I created a presentation explaining how asynchronous behavior works in JavaScript and why it is essential for modern web development.
+
+---
+
+## 📊 Presentation
+📎 **[View Presentation (PDF)](https://github.com/m4gnet4r/Async-js/blob/main/Async%20Js.pdf)** <br>
+📎 **[View Presentation (PPT)](https://github.com/m4gnet4r/Async-js/blob/main/Async%20Js.pptx)**
 
 ---
 
