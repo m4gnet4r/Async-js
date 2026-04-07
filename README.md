@@ -1,19 +1,19 @@
-# 📌 KOSS Selection Task – Async JavaScript
+#  KOSS Selection Task – Async JavaScript
 
 Submitted by Yash Jain for the KOSS task round.
 
-## 📖 Overview
+##  Overview
 This repository contains my submission for the **KOSS selection task**, where I created a presentation explaining how asynchronous behavior works in JavaScript and why it is essential for modern web development.
 
 ---
 
-## 📊 Presentation
+##  Presentation
 📎 **[View Presentation (PDF)](https://github.com/m4gnet4r/Async-js/blob/main/Async%20Js.pdf)** <br>
 📎 **[View Presentation (PPT)](https://github.com/m4gnet4r/Async-js/blob/main/Async%20Js.pptx)**
 
 ---
 
-## 🧠 Concepts Explained
+##  Concepts Explained
 
 ### 🔹 Synchronous vs Asynchronous JavaScript
 Synchronous JavaScript executes code line by line, where each operation must complete before the next begins, which can lead to blocking behavior.  
@@ -41,7 +41,7 @@ It improves code clarity and makes error handling easier using `try...catch`, ma
 ---
 
 
-## 💡 Key Takeaways
+##  Key Takeaways
 
 - Learned how JavaScript manages asynchronous tasks using the event loop  
 - Understood the evolution from callbacks → promises → async/await  
@@ -49,10 +49,10 @@ It improves code clarity and makes error handling easier using `try...catch`, ma
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This task enhanced my understanding of asynchronous programming and its importance in building responsive and efficient applications.
 
 ---
 
-## 🙌 Acknowledgement
+##  Acknowledgement
 Thank you to the KOSS team for this opportunity to learn and explore!
